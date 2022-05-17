@@ -1,0 +1,26 @@
+.info {
+  display: flex;
+  gap: 70px;
+  width: 600px;
+  align-self: flex-end;
+  justify-self: end;
+  transform: rotate(90deg);
+  position: fixed;
+  right: -175px;
+  top: 50vh;
+}
+
+.info__text {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.055em;
+  color: #ffffff;
+  text-decoration: none;
+  text-transform: uppercase;
+}

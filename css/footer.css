@@ -1,0 +1,31 @@
+.footer {
+  padding-top: 74vh;
+  display: flex;
+  width: 80%;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+
+.footer__designer {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 45px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+  margin: 0;
+}
+
+.footer_icons {
+  display: flex;
+  gap: 20px;
+}
+
+.icon__pic {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
